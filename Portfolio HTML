@@ -1,0 +1,49 @@
+<head>
+  <title>Cassidy Rase's Portfolio</title>
+  <link href="https://fonts.googleapis.com/css?family=Homemade+Apple|Poppins" rel="stylesheet">
+</head>
+
+<body>
+  <nav id="navbar">
+    <a href="#Home" class="nav-bar">Home</a>
+    <a href="#About" class="nav-bar">About</a>
+    <a href="#Projects" class="nav-bar">Projects</a>
+    <a href="#Resume" class="nav-bar">Resume</a>
+    <a href="#Contact" class="nav-bar">Contact</a>
+  </nav>
+
+  <div id="welcome-section">
+    <h1>Cassidy Rase</h1>
+    <h3>I'm a web developer.</h3>
+  </div>
+  
+  <section id="about">
+    <div><img src="http://i613.photobucket.com/albums/tt215/cassidyrase/ResumePhoto_zpsyc3mpk8m.jpeg" alt="Profile photo" class="main-photo"></div>
+    <div>
+      <p class="bio">Hi, I’m Cassidy and I’m a self-taught web developer.  If you’re looking for a fun, energetic, team-player- look no further!  I’m looking for work in front-end development or web design.  I’m currently located in Charlotte, NC and am willing to work remotely or relocate if necessary.  I’m very driven and love to be pushed daily, whether it be learning a new programming language, working on a new project, or even in the gym outside of work!  I’m currently working on learning JavaScript and have no plans to stop there.  I am constantly looking for ways to expand my knowledge and take constructive criticism with arms wide open.  Let’s work together! </p></div>  
+  </section>
+  
+  <section id="projects">
+    <h3>Want to see my work? Here are a few of my projects...</h3>
+    <a href="https://codepen.io/cassidyrase/full/XYxvaL/" target="_blank" class="project-tile">
+      <img src="http://i613.photobucket.com/albums/tt215/cassidyrase/Sandestin_zpsas3lnmwy.png" border="0" alt="Sandestin Resort" class="image1"/>
+      <div class="project-title">Product Page
+      </div>
+      <br>
+   <a href="https://codepen.io/cassidyrase/full/vrVYGB/" target="_blank" class="project-tile">
+     <img src="http://i613.photobucket.com/albums/tt215/cassidyrase/survey_zps02nmhx8c.png" border="0" alt="Survey Form" class="image2"/>
+      <div class="project-title">Survey Form
+      </div>
+      </a>
+  </section>
+  <section id="contact">
+    <p>Want to work together? Contact me!</p>
+    <p>
+      Follow me on Twitter: <a href="https://twitter.com/RaseCassidy" target="_blank" alt="twitter">@rasecassidy</a>
+      <br>
+      Email me: cassidycodes@gmail.com
+      <br>
+      Call me: (740)352-8428
+    </p>
+  </section
+</body>
